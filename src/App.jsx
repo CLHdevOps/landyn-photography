@@ -101,8 +101,8 @@ const initialGalleries = {
       },
       {
         id: "f3",
-        url: "https://images.unsplash.com/photo-1512531060367-8197c1f52463?q=80&w=1800&auto=format&fit=crop",
-        thumb: "https://images.unsplash.com/photo-1512531060367-8197c1f52463?q=80&w=600&auto=format&fit=crop",
+        url: "https://images.unsplash.com/photo-1551218808-94e220e084d2?q=80&w=1800&auto=format&fit=crop",
+        thumb: "https://images.unsplash.com/photo-1551218808-94e220e084d2?q=80&w=600&auto=format&fit=crop",
         title: "Walk in the Park",
         tags: ["family"],
       },
@@ -220,7 +220,7 @@ function PortfolioShowcase() {
     "https://images.unsplash.com/photo-1517649763962-0c623066013b?q=80&w=1600&auto=format&fit=crop",
     "https://images.unsplash.com/photo-1583336663277-620dc1996580?q=80&w=1600&auto=format&fit=crop",
     "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?q=80&w=1600&auto=format&fit=crop",
-    "https://images.unsplash.com/photo-1512531060367-8197c1f52463?q=80&w=1600&auto=format&fit=crop",
+    "https://images.unsplash.com/photo-1551218808-94e220e084d2?q=80&w=1600&auto=format&fit=crop",
   ];
   return (
     <section id="portfolio" className="mx-auto max-w-7xl px-6 pb-16">
